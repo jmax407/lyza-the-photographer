@@ -9,6 +9,7 @@ describe('About component', () => {
     // First test
     it('renders', () => {
         render(<About />);
+        
     })
 
     // Second Test
